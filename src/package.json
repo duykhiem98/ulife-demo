@@ -1,0 +1,18 @@
+{
+  "name": "@Home/Demo_ulife",
+  "description": "@author: thuannd @date: 01/11/2019. @SDK: Kanban board view: scroll view + Parallax view. @required install: \t\"react-native-haptic\": \"^1.0.1\",",
+  "dependencies": {
+    "react-native-animatable": "^1.3.2",
+    "react-native-snap-carousel": "^3.8.4",
+    "react-native-view-shot": "^3.0.2",
+    "recyclerlistview": "^2.0.12"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.2",
+    "react-native-haptic": "^1.0.1",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-reanimated": "^1.3.0"
+  },
+  "version": "1.0.0"
+}
